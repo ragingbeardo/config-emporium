@@ -1,6 +1,6 @@
 {
-    "name": "config-testing",
-    "version": "1.0.0",
+    "name": "config-emporium",
+    "version": "0.0.0",
     "sptVersion": "~3.10",
     "loadBefore": [],
     "loadAfter": [],
